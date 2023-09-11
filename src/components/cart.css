@@ -1,0 +1,13 @@
+span {
+  margin-left: 15px;
+}
+.cart {
+  display: flex;
+  place-items: center;
+  justify-content: center;
+  margin: 15px;
+}
+.cart img {
+  width: 100px;
+  height: 90px;
+}

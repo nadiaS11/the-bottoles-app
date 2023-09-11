@@ -9,7 +9,7 @@ const Bottle = ({ bottle, handleBuyNow }) => {
         <img src={img} alt="" />
         <h3>{name}</h3>
         <p>Price: ${price}</p>
-        <button onclick={() => handleBuyNow(bottle)} className="btn-buy">
+        <button onClick={() => handleBuyNow(bottle)} className="btn-buy">
           Buy now
         </button>
       </div>
