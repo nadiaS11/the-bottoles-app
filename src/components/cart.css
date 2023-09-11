@@ -11,3 +11,9 @@ span {
   width: 100px;
   height: 90px;
 }
+.btn-cart {
+  background-color: darkgrey;
+  font-size: small;
+  font-weight: 600;
+  padding: 8px 16px;
+}
