@@ -1,0 +1,16 @@
+img {
+  width: 300px;
+  height: 200px;
+  border-radius: 15px;
+  padding: 10px;
+}
+.every-bottle {
+  margin: 15px;
+  padding: 10px;
+  background-color: ghostwhite;
+  border-radius: 5px;
+}
+.btn-buy {
+  padding: 10px 18px;
+  background-color: gainsboro;
+}
